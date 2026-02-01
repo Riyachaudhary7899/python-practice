@@ -1,8 +1,15 @@
 # 2_if_else.py
-# This program explains if-else conditions in Python
+# This program explains if-else conditions in Python.
+# It checks marks and prints the grade accordingly.
 
-marks = 78
+print("IF-ELSE EXAMPLE")
+print("This program checks marks and prints the grade\n")
 
+marks = 78   # student marks
+
+print("Marks obtained:", marks)
+
+# Checking conditions
 if marks >= 90:
     print("Grade: A")
 elif marks >= 75:
