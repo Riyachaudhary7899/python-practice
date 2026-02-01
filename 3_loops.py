@@ -1,6 +1,7 @@
 # 3_loops.py
 # This program explains loops in Python in a simple way.
 # It shows how for loop and while loop work.
+# Loops are used to repeat a block of code.
 
 print("FOR LOOP EXAMPLE")
 print("This loop prints numbers from 1 to 5")
